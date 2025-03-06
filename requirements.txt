@@ -13,3 +13,5 @@ Flask
 uvloop
 psutil
 speedtest-cli
+telethon
+git+https://github.com/LonamiWebs/Telethon.git
